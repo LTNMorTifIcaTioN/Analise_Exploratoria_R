@@ -1,15 +1,30 @@
 Nome da Disciplina: ANÁLISE EXPLORATÓRIA DE DADOS
+
+Objetivo 1
+Compreender a importância da Análise Exploratória de Dados no contexto atual de produção de informações, entendendo as características dos diferentes tipos de dados e variáveis e como obter informações descritivas sobre elas.
+
+Objetivo 2
+Identificar os diferentes problemas encontrados em conjuntos de dados, suas causas, impactos e formas de resolução nos programas R e Python, para uma corrreta análise e obtenção de informações.
+
+Objetivo 3
+Diferenciar conjuntos de dados univariados e multivariados e compreender suas características, além de entender como aplicar modelos lineares, selecionar variáveis e visualizar informações através de gráficos.
+
+Objetivo 4
+Analisar informações oriundas de conjuntos de dados multivariados, compreender a diferença e uso adequado de diferentes ténicas e quais as principais ferramentas utilizadas na Análise Exploratória de Dados.
+
 Ementa:
 Linguagem de programação R
 Tratamento e exploração de dados com R
 Análise exploratória de dados com R
 Análise exploratória de dados com gráfico
+
 Competência:
 Conhecer e saber utilizar os fundamentos básicos da linguagem R.
 Compreender e saber utilizar a linguagem R para efetuar tratamento e exploração de 
 dados.
 Compreender e saber utilizar a linguagem de programação R para fazer análise de dados
 Conhecer e saber utilizar técnicas para a geração de gráficos para análises
+
 Bibliografia Básica:
 CASTRO, Leandro Nunes de; FERRARI, Daniel Gomes. Introdução à mineração de 
 dados : conceitos básicos, algoritmos e aplicações. São Paulo : Saraiva, 2016.
