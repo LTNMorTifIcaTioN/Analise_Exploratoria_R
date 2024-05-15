@@ -13,10 +13,10 @@ Objetivo 4
 Analisar informações oriundas de conjuntos de dados multivariados, compreender a diferença e uso adequado de diferentes ténicas e quais as principais ferramentas utilizadas na Análise Exploratória de Dados.
 
 Ementa:
-Linguagem de programação R
-Tratamento e exploração de dados com R
-Análise exploratória de dados com R
-Análise exploratória de dados com gráfico
+Linguagem de programação R;
+Tratamento e exploração de dados com R;
+Análise exploratória de dados com R;
+Análise exploratória de dados com gráfico;
 
 Competência:
 Conhecer e saber utilizar os fundamentos básicos da linguagem R.
